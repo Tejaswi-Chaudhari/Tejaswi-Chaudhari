@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 0 is still a non-negative integer
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejaswi-Chaudhari&show_icons=true&locale=en" alt="Tejaswi's github stats" width="460"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Tejaswi-Chaudhari&show_icons=true&locale=en" alt="Tejaswi's github streaks" height="180"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejaswi-Chaudhari&show_icons=true&locale=en" alt="Tejaswi's github stats" width="450"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Tejaswi-Chaudhari&show_icons=true&locale=en" alt="Tejaswi's github streaks" height="180"/>
 

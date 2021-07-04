@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 0 is still a non-negative integer
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejaswi-Chaudhari&show_icons=true&locale=en" alt="Tejaswi's github stats" width="455"/><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejaswi-Chaudhari&show_icons=true&locale=en" alt="Tejaswi's github stats" width="456"/>
+<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Tejaswi-Chaudhari&show_icons=true&locale=en" alt="Tejaswi's github streaks" height="180"/>
 

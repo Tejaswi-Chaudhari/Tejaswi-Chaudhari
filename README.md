@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Django Rest Framework, Competitive Programming
 - 🌟 I am a web developer
 - 👯 I’m looking to collaborate on whatever you like...let's just start working
+- 💻 Find me on [https://tejaswichaudhari.me/](https://tejaswichaudhari.me/)
 - 📫 How to reach me: Duh, Just drop a text<br>
 <p><a href="https://www.linkedin.com/in/tejaswi-chaudhari/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> <a href="http://www.gmail.com/" target="blank"><img align="center" src="https://img.shields.io/badge/tejschaudhari522002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="socials"/></a></p>
 

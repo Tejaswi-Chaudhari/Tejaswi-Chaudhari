@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p><a href="https://www.linkedin.com/in/tejaswi-chaudhari/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="socials"/></a> <a href="http://www.gmail.com/" target="blank"><img align="center" src="https://img.shields.io/badge/tejschaudhari522002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="socials"/></a></p>
 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: 0 is still a non-negative integer
+- ⚡ Fun fact: I love talking, A LOT!
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejaswi-Chaudhari&show_icons=true&locale=en" alt="Tejaswi's github stats" width="456"/>

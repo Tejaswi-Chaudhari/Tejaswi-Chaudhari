@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love talking, A LOT!
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Tejaswi-Chaudhari&show_icons=true&title_color=5271ff&text_color=000000&icon_color=5271ff&border_color=ffffff&bg_color=fffff)](https://github.com/Tejaswi-Chaudhari/github-readme-stats" alt="Tejaswi's GitHub stats"/> 
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejaswi-Chaudhari&background=ffffff&stroke=5271ff&ring=5271ff&fire=5271ff&currStreakNum=5271ff&sideNums=5271ff&currStreakLabel=000000&sideLabels=000000&dates=000000)](https://git.io/streak-stats" alt="GitHub Streak"/>
+  <img width="49.55%" src="https://github-readme-stats.vercel.app/api?username=Tejaswi-Chaudhari&show_icons=true&title_color=5271ff&text_color=000000&icon_color=5271ff&border_color=ffffff&bg_color=fffff)](https://github.com/Tejaswi-Chaudhari/github-readme-stats" alt="Tejaswi's GitHub stats"/> 
+  <img width="49.55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejaswi-Chaudhari&background=ffffff&stroke=5271ff&ring=5271ff&fire=5271ff&currStreakNum=5271ff&sideNums=5271ff&currStreakLabel=000000&sideLabels=000000&dates=000000)](https://git.io/streak-stats" alt="GitHub Streak"/>
 </p>
 
 <a href="https://github.com/Tejaswi-Chaudhari"><img alt="Tejaswi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tejaswi-Chaudhari&custom_title=Tejaswi's%20Activity%20Graph&theme=react-dark" /></a>

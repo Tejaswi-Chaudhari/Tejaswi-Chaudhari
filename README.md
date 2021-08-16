@@ -23,4 +23,10 @@ Here are some ideas to get you started:
   <img width="49.75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejaswi-Chaudhari&background=ffffff&stroke=5271ff&ring=5271ff&fire=5271ff&currStreakNum=5271ff&sideNums=5271ff&currStreakLabel=000000&sideLabels=000000&dates=000000)](https://git.io/streak-stats" alt="GitHub Streak"/>
 </p>
 
-<a href="https://github.com/Tejaswi-Chaudhari"><img alt="Tejaswi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tejaswi-Chaudhari&custom_title=Tejaswi's%20Activity%20Graph&theme=react-dark" /></a>
+<details>
+  <summary><b>Recent GitHub Activity ⚡</b></summary>
+  <br/>
+   <a href="https://github.com/Tejaswi-Chaudhari"><img alt="Tejaswi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tejaswi-Chaudhari&custom_title=Tejaswi's%20Activity%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
+

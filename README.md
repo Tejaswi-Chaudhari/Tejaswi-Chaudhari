@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ✨[Gift of the Gab](https://github.com/Tejaswi-Chaudhari/Gift-of-the-Gab)✨
+<!-- - 🔭 I’m currently working on ✨[Gift of the Gab](https://github.com/Tejaswi-Chaudhari/Gift-of-the-Gab)✨ -->
 - 🌱 I’m currently learning Django Rest Framework, Competitive Programming
 - 🌟 I am a web developer
 - 👯 I’m looking to collaborate on whatever you like...let's just start working

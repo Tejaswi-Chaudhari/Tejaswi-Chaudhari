@@ -1,5 +1,5 @@
 ![Banner](https://github.com/Tejaswi-Chaudhari/Tejaswi-Chaudhari/blob/7b2e48c467e9a314b5e5e8bb87e170af27bed601/Banner.gif)
-<h1 align="center">Hellooo there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Tejaswi here</h1>
+<h1 align="center">Hellooo there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="3%"> Tejaswi here</h1>
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Tejaswi-Chaudhari.Tejaswi-Chaudhari"> <img src="https://img.shields.io/github/followers/Tejaswi-Chaudhari?label=Follow&style=social)](https://github.com/Tejaswi-Chaudhari"></p>
 
 <!--

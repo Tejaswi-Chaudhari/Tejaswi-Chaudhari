@@ -8,8 +8,8 @@
 Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on ✨[Gift of the Gab](https://github.com/Tejaswi-Chaudhari/Gift-of-the-Gab)✨ -->
-- 🌱 I’m currently learning Django Rest Framework, Competitive Programming
-- 🌟 I am a web developer
+- 🌱 I’m currently learning about Large Language Models, Multimedia Systems.
+- 🌟 I am a Software Developer
 - 👯 I’m looking to collaborate on whatever you like...let's just start working
 - 💻 Find me on [https://tejaswichaudhari.me/](https://tejaswichaudhari.me/)
 - 📫 How to reach me: Duh, Just drop a text<br>
